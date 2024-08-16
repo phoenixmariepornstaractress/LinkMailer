@@ -1,1 +1,4 @@
 # LinkMailer
+Invitation to Contribute to LinkMailer
+
+Greetings, fellow Python developers! We are excited to introduce LinkMailer, a dynamic tool designed to schedule and send curated lists of website links via email at specified times. As a project that bridges automation and communication, LinkMailer has great potential to grow and evolve with the contributions of skilled developers like you. Whether you're passionate about optimizing code, enhancing features, improving documentation, or tackling new challenges, your expertise is invaluable. We invite you to join us in refining and expanding LinkMailer to better serve the community. Your contributions, big or small, are greatly appreciated. Let's collaborate to make LinkMailer a robust and versatile tool for all!
